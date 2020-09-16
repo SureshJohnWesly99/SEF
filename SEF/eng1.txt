@@ -1,0 +1,11 @@
+do {
+return 0;
+#include <stdio.h>
+int main()
+printf("%d\n", val);
+{
+++val;
+} while (val++ > 25);
+int val = 1;
+val++;
+}
