@@ -51,15 +51,6 @@ To run the application, ensure you have the following installed:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Make sure to follow coding best practices and include appropriate tests for any new features.
 
-## License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you wish.
-
-## Acknowledgments
-
-- Special thanks to [OpenAI](https://openai.com) for providing the model behind this application and to Tkinter for a powerful way to create GUI applications in Python.
-- Thanks to any contributors and users who help improve the project.
-
 ---
 
 Feel free to modify this README template as needed for your specific project details and organizational guidelines!
